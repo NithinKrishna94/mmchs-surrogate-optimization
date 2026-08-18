@@ -81,10 +81,10 @@ studies skip this.
 |---|---|
 | Literature survey on surrogate modelling and CFD-based design optimisation | Done |
 | Baseline data collected; benchmark and channel-level starting point fixed | Done |
-| Reproduction of baseline cases to validate the CFD setup | In progress |
+| Reproduction of baseline cases to validate the CFD setup | Done |
 | Manifold geometry parameterisation | In progress |
-| Design of experiments — parameters, levels, sampling scheme | Not started |
-| Generation of the designed CFD dataset | Not started |
+| Design of experiments — parameters, levels, sampling scheme | In progress |
+| Generation of the designed CFD dataset | In progress |
 | Surrogate fitting, benchmarking, learning curve | Not started |
 | SHAP attribution | Not started |
 | NSGA-II coupling, Pareto front, TOPSIS selection | Not started |
