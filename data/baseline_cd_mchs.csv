@@ -1,0 +1,20 @@
+case_id	configuration	sweep	N	fin_angle_deg	depth_mm	fin_width_mm	delta_p_Pa	Ts_max_K	Tf_out_K	sigma_m_pct	sigma_temp_C	PEC	fin_effectiveness	fin_efficiency	pec_reference
+N19	no_manifold	channel_count	19	2	0.8		517	376	359	2.78	1.1	0.95	5.9	0.83	uniform
+N23	no_manifold	channel_count	23	2	0.8		431	369	353	2.31	0.92	1.05	5.3	0.81	uniform
+N27	no_manifold	channel_count	27	2	0.8	0.24	382	364	349	2.12	0.85	1	4.85	0.79	uniform
+N31	no_manifold	channel_count	31	2	0.8		327	361	347	2.05	0.77	1.2	4.3	0.76	uniform
+N35	no_manifold	channel_count	35	2	0.8		301	359	346	2.02	0.72	1.22	3.9	0.73	uniform
+A1	no_manifold	fin_angle	27	1	0.8	0.24	315	365	351	3.4	0.96	0.89	5.43	0.77	angle_2deg
+A2	no_manifold	fin_angle	27	2	0.8	0.24	382	364	349	2.12	0.85	1	4.8	0.79	angle_2deg
+A3	no_manifold	fin_angle	27	3	0.8	0.24	406	365	352	1.88	0.74	0.95	4.23	0.79	angle_2deg
+A4	no_manifold	fin_angle	27	4	0.8	0.24	540	367	354	1.57	0.58	0.91	3.8	0.8	angle_2deg
+H05	no_manifold	channel_depth	27	2	0.5	0.24	716	375	358	2.81	1.2	0.59	3.99	0.86	uniform
+H06	no_manifold	channel_depth	27	2	0.6	0.24	524	371	354	2.62	1.08	0.71	4.27	0.83	uniform
+H07	no_manifold	channel_depth	27	2	0.7	0.24	418	367	352	2.39	0.97	0.82	4.52	0.8	uniform
+H08	no_manifold	channel_depth	27	2	0.8	0.24	382	364	349	2.12	0.85	1	4.85	0.79	uniform
+H09	no_manifold	channel_depth	27	2	0.9	0.24	302	361	346	2.02	0.8	1.02	5.12	0.78	uniform
+W020	no_manifold	fin_width	27	2	0.8	0.2	278	363	346	1.97	0.83	0.95	4.52	0.776	uniform
+W024	no_manifold	fin_width	27	2	0.8	0.24	382	364	347	2.12	0.85	1	4.81	0.789	uniform
+W027	no_manifold	fin_width	27	2	0.8	0.27	515	365	350	2.57	0.91	0.78	4.89	0.797	uniform
+W030	no_manifold	fin_width	27	2	0.8	0.3	1165	367	351	3.25	0.98	0.67	5.2	0.827	uniform
+U23	no_manifold	uniform_reference	23	0	0.8	0.378	545	374	356	0.61	4.35				uniform
